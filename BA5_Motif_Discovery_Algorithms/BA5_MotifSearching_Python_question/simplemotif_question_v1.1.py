@@ -87,11 +87,11 @@ def buildDictionary(fastafile,kmer):
 
 def compareDictionaries(kmer):
     #just load the two files and count each kmer
-    dictforeground =  buildDictionary(???
-    dictbackground = buildDictionary(???
+    dictforeground =  buildDictionary("Oct4.pos.fasta", kmer)
+    dictbackground = buildDictionary("bground.fasta", kmer)
 
     #normalise by size
-    normaliseDict(???)
+    normaliseDict(dictforeground)
     normaliseDict(dictbackground)
 
     F = open("testfile_fg.txt", "w")
@@ -101,8 +101,8 @@ def compareDictionaries(kmer):
             continue
         F.write(myseq[0])
         F.write("\t")
-        F.write(???))
-        F.write("???")
+        F.write(str(myseq[-1]))
+        F.write("\n")
     F.close()
 
     F = open("testfile_bg.txt", "w")
@@ -112,8 +112,8 @@ def compareDictionaries(kmer):
             continue
         F.write(myseq[0])
         F.write("\t")
-        F.write(???)
-        F.write("???")
+        F.write(str(myseq[-1]))
+        F.write("\n")
     F.close()
 #combined
     print("Writing Combined Files...")
