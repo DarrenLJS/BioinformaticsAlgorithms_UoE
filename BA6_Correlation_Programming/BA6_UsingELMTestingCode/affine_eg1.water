@@ -1,0 +1,39 @@
+########################################
+# Program: water
+# Rundate: Tue 25 Feb 2025 22:26:57
+# Commandline: water
+#    -datafile EDNAFULL_srt
+#    -asequence seq1.fasta
+#    -bsequence seq2.fasta
+#    -gapopen 2
+#    -gapextend 1
+#    -outfile affine_eg1.water
+# Align_format: srspair
+# Report_file: affine_eg1.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: seq1
+# 2: seq2
+# Matrix: EDNAFULL_srt
+# Gap_penalty: 2.0
+# Extend_penalty: 1.0
+#
+# Length: 18
+# Identity:      13/18 (72.2%)
+# Similarity:    13/18 (72.2%)
+# Gaps:           2/18 (11.1%)
+# Score: 19.0
+# 
+#
+#=======================================
+
+seq1              11 CATTATATATATATAAAA     28
+                     |.|.| ||||| |.||||
+seq2               1 CGTGA-ATATA-AAAAAA     16
+
+
+#---------------------------------------
+#---------------------------------------
