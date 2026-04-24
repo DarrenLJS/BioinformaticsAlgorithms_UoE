@@ -1,0 +1,8 @@
+This is an example of a simple FASTA format parser.
+
+Q1- Run the code
+Q2- Work out the 'entry point' for the running of the code- follow the flow of execution through the programme.
+Q3- The similarity matrix functionality brings in an alphabet- why do you think the code does this?
+Q4- Where does the example data used for the tests come from- there are no input files?
+Q5- What do you think will happen when this code is included in  a larger package- will it run tests each time?
+Q6- Create a small test application with a simple FASTA input file using a text editor and run the parser and parse this file.

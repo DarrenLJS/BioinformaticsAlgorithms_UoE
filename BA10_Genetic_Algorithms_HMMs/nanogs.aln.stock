@@ -1,0 +1,47 @@
+# STOCKHOLM 1.0
+
+Homo_sapiens            ---TWFQNQRMKSKRWQK-NNWPKNSNGVTQKASAPTYPSL-YSSYHQGC
+Pan_troglodytes         ---TWFQNQRMKSKRWQK-NNWPKNSNGVTQKASAPTYPSL-YSSYHQGC
+Macaca_mulatta          ---TWFQNQRMKSKRWQK-NNWPKNSNGVT-----------------QGC
+Canis_lupus_familiaris  -----------KSKRWQK-SNWPKESNSVTQNSSATTEYAG-FYPCRQGY
+Bos_taurus              --------QRMKCKKWQK-NNWPRNSNGMPQGPA-MAEYPG-FYSYHQGC
+Mus_musculus            --KTWFQNQRMKCKRWQK-NQWLKTSNGLIQKGSAPVEYPSIHCSYPQGY
+Rattus_norvegicus       QVKTWFQNQRMKCKRWQK-NQWLKTSNGLTQKGSAPVEYPSIHCSYSQGY
+Chick                   --KTWFQNQRMKFKRCQKESQWVDKGIYLPQNGFHQAAYLDMTPTFHQGF
+
+Homo_sapiens            LVNPTGNLPMWSNQTWNNSTWSNQT----------QNIQSWSNHSWNTQT
+Pan_troglodytes         LVNPTGNLPMWSNQTWNNSTWSNQT----------QNIQSWSNHSWNTQT
+Macaca_mulatta          LVNPTGNLPMWSNQTWNNSSWSNQT----------QNIQSWSNHSWNAQT
+Canis_lupus_familiaris  LLNPSGNLPLWSSQAWNNPNWSSQT----------WNSQSWSSHSWNSQT
+Bos_taurus              LVNSPGNLPMWGNQTWNNPTWSNQS----------WNSQSWSNHSWNSQA
+Mus_musculus            LVNASGSLSMWGSQTWTNPTWSSQTWTNPTWNNQTWTNPTWSSQAWTA--
+Rattus_norvegicus       LMNASGNLPVWGSQTWTNPTWNNQTWTNPTWSNQTWTNPTWSNQAWSTQS
+Chick                   PVVTNRNLQAVTSAH--------QA---------------YS-----S--
+
+Homo_sapiens            WCTQSWNNQAWNS-PFYNCGEESLQSCMQFQPNSPASDLEAALEAAGEGL
+Pan_troglodytes         WCTQSWNNQAWNS-PFYNCGEESLQSCMQFQPNSPASDLEAALEAAGEGL
+Macaca_mulatta          WCTQSWNNQAWNS-PFSNCGEESLQSCLQFQPNSPASDLEAALEAAGEGL
+Canis_lupus_familiaris  WCPQAWNNQAWNN-PLHNCEEESLQPPIQFQQNS-MGDLESIFETAGESH
+Bos_taurus              WCPQAWNNQPWNN-QFNNYMEEFLQPGIQLQQNSPVCDLEATLGTAGENY
+Mus_musculus            ---QSWNGQPWNAAPLHNFGEDFLQPYVQLQQNFSASDLEVNLEATRESH
+Rattus_norvegicus       WCTQAWNSQTWNAAPLHNFGEDSLQPYVPLQQNFSASDLEANLEATRESQ
+Chick                   -------GQTYGN------G-QGLYPFMAV-------EDEGFFGKGGTSC
+
+Homo_sapiens            NVIQQTTRYFST-PQTMDLFLNYSMNMQPEDV------------------
+Pan_troglodytes         NVIQQTARYFST-PQTMDLFLNYSTNMQPEDM------------------
+Macaca_mulatta          NVIQQTTRYLST-PQTVDLLLNYSTNMQPEDV------------------
+Canis_lupus_familiaris  GVLQQSTKYFST-PQIMDFFPNYSXNIQPEDV------------------
+Bos_taurus              NVIQQTVKYFNSQQQITDLFPNYPLNIQPEDL------------------
+Mus_musculus            AH-------FST-PQALELFLNYSVTPPGEI-------------------
+Rattus_norvegicus       AH-------FST-PQALELFLNYSVNSPGEI-------------------
+Chick                   NT-QQA---MGLLSQQMNFYHGYSTNVDYDSLQAEDTYSFQSTSDSITQF
+
+Homo_sapiens            ------------------------
+Pan_troglodytes         ------------------------
+Macaca_mulatta          ------------------------
+Canis_lupus_familiaris  ------------------------
+Bos_taurus              ------------------------
+Mus_musculus            ------------------------
+Rattus_norvegicus       ------------------------
+Chick                   SSSPVRHQYQAPWHTLGTQNGYET
+//
